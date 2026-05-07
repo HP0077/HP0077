@@ -1,4 +1,3 @@
-```md id="gr1o9w"
 <h1 align="center">Hi 👋, I'm Huzaifa Pathan</h1>
 <h3 align="center">AI/ML & Full Stack Developer from India</h3>
 
@@ -108,4 +107,4 @@ Health & wellbeing platform featuring:
 ---
 
 <h3 align="center">⭐ Building practical AI-powered applications and scalable backend systems ⭐</h3>
-```
+

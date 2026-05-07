@@ -75,7 +75,7 @@ Machine Learning-based heart disease prediction system using:
 - Framingham Dataset
 - Real-time predictions
 
-## 💪 [FITNESS FUSION](https://github.com/HP0077/FITNESS-FUSION)
+## 💪 [FITNESS FUSION](https://github.com/HP0077/FITNESS-FUSION-V4.1)
 Health & wellbeing platform featuring:
 - Fitness tracking
 - Health calculators

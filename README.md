@@ -84,13 +84,16 @@ Health & wellbeing platform featuring:
 
 ---
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=HP0077&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+# 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com/?user=HP0077&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=HP0077&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" />
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HP0077&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HP0077&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" />
+</p>
+
+
 
 ---
 

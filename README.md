@@ -88,18 +88,12 @@ Health & wellbeing platform featuring:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=HP0077&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HP0077&show_icons=true&theme=default&hide_border=true" height="160"/>
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HP0077&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HP0077&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 
 
-
----
-
-## 📈 Contribution Graph
-
-[![Huzaifa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HP0077&theme=tokyo-night)](https://github.com/HP0077)
 
 ---
 
